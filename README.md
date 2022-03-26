@@ -9,7 +9,7 @@
 
 ## 安裝及使用
 
-1. 安裝 node.js 與 npm
+1. 安裝 node.js
 2. 將專案 clone 到本地
 
    ```
